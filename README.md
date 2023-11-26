@@ -3,10 +3,10 @@
 > 🎓 Atualmente estou cursando Ciência da Computação na Faculdade Cruzeiro do Sul. Meu interesse por tecnologia e programação começou antes dos meus tempos de ensino médio na Etec professor Camargo Aranha, onde tive a oportunidade de explorar diferentes linguagens e me aprofundar em novos conceitos que me levaram a cursar Ciência da Computação com muito orgulho.
 
 > 💻Minhas principais ferramentas incluem:
->Python: Adoro resolver problemas e criar soluções usando Python [UNICSUL/UDEMY].
->HTML, CSS e JavaScript: Tenho experiência em desenvolvimento web [ETEC/UNICSUL].
-> Java: Aprendi o básico da programação orientada a objetos usando Java [ETEC].
->C#: Também conheço C# e gosto de explorar o desenvolvimento de aplicativos de desktop [DIO].
+Python: Adoro resolver problemas e criar soluções usando Python [UNICSUL/UDEMY].
+HTML, CSS e JavaScript: Tenho experiência em desenvolvimento web [ETEC/UNICSUL].
+Java: Aprendi o básico da programação orientada a objetos usando Java [ETEC].
+C#: Também conheço C# e gosto de explorar o desenvolvimento de aplicativos de desktop [DIO].
 
 
 💬 🔍Atualmente estou em busca de oportunidades de estágio e aprender com profissionais experientes na área de tecnologia. Se você quiser entrar formar uma conexão no LinkedIn, eu adoraria ouvir de você!
