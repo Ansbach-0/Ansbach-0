@@ -15,9 +15,9 @@
 
 ## 🚀 Minhas Skills
 
-<code><img height="32" src="[https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png](https://growiz.com.br/wp-content/uploads/2020/08/kisspng-c-programming-language-logo-microsoft-visual-stud-atlas-portfolio-5b899192d7c600.1628571115357423548838.png)" alt="c#"/></code>
+<code><img height="32" src="https://camo.githubusercontent.com/36bec898636fa1af91f44976e109fe05b312b7dfcd62edead398a7efedbcd8a8/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f302f30642f435f53686172705f776f72646d61726b2e7376672f34363470782d435f53686172705f776f72646d61726b2e7376672e706e67" alt="c#"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-<code><img height="32" src="[https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca(https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png)](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png)" alt="Python"/></code>
+<code><img height="32" src="https://camo.githubusercontent.com/9f7002fa85f5bc686e82076e686b18b1b56835800059e455b9f913a091d9083c/687474703a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f632f63332f507974686f6e2d6c6f676f2d6e6f746578742e7376672f3230303070782d507974686f6e2d6c6f676f2d6e6f746578742e7376672e706e67" alt="Python"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
