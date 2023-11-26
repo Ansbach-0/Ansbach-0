@@ -6,7 +6,7 @@
 > * Python: Adoro resolver problemas e criar soluções usando Python [UNICSUL/UDEMY].
 > * HTML, CSS e JavaScript: Tenho experiência em desenvolvimento web [ETEC/UNICSUL].
 > * Java: Aprendi o básico da programação orientada a objetos usando Java [ETEC].
-> * C#: Também conheço C# e gosto de explorar o desenvolvimento de aplicativos de desktop [DIO].
+> * C#: Também conheço C# e gosto de explorar o desenvolvimento de aplicativos multiplataformas usando .NET [DIO].
 
 
 > 🔍 Atualmente estou em busca de oportunidades de estágio e aprender com profissionais experientes na área de tecnologia. Se você quiser entrar formar uma conexão no LinkedIn, eu adoraria ouvir de você! <a href='https://www.linkedin.com/in/vinicius-ansbach/'>Meu LinkedIn</a>
