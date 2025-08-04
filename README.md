@@ -115,7 +115,7 @@ class ViniciusAnsbach:
 
 🔹 Sistema completo de automação de vendas para Discord  
 🔹 Integração com API do Mercado Pago para pagamentos PIX  
-🔹 **+30 transações processadas automaticamente**  
+🔹 **+300 transações processadas automaticamente**  
 🔹 Arquitetura multi-servidor com logs detalhados  
 
 [![Repo](https://img.shields.io/badge/Ver_Repositório-000?style=for-the-badge&logo=github)](https://github.com/Ansbach-0)
