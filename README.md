@@ -110,7 +110,7 @@ class ViniciusAnsbach:
 
 ## 🎯 Projetos em Destaque
 
-### 🤖 Bot de Automação de Vendas Discord
+### 🤖 Bot de Automação de Vendas Discord (Mymy bot)
 **Tecnologias:** `Python` `Discord.py` `SQLite3` `API Mercado Pago`
 
 🔹 Sistema completo de automação de vendas para Discord  
@@ -118,7 +118,7 @@ class ViniciusAnsbach:
 🔹 **+300 transações processadas automaticamente**  
 🔹 Arquitetura multi-servidor com logs detalhados  
 
-[![Repo](https://img.shields.io/badge/Ver_Repositório-000?style=for-the-badge&logo=github)](https://github.com/Ansbach-0)
+[![Repo](https://img.shields.io/badge/Ver_Repositório-000?style=for-the-badge&logo=github)]([https://github.com/Ansbach-0](https://github.com/Ansbach-0/Mymy-bot))
 
 ### 📝 Sistema de Blog com Autenticação
 **Tecnologias:** `Python` `Flask` `SQLAlchemy` `Bootstrap`
