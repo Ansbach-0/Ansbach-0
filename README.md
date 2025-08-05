@@ -118,7 +118,7 @@ class ViniciusAnsbach:
 🔹 **+300 transações processadas automaticamente**  
 🔹 Arquitetura multi-servidor com logs detalhados  
 
-[![Repo](https://img.shields.io/badge/Ver_Repositório-000?style=for-the-badge&logo=github)]([https://github.com/Ansbach-0](https://github.com/Ansbach-0/Mymy-bot))
+[![Repo](https://img.shields.io/badge/Ver_Repositório-000?style=for-the-badge&logo=github)](https://github.com/Ansbach-0/Mymy-bot)
 
 ### 📝 Sistema de Blog com Autenticação
 **Tecnologias:** `Python` `Flask` `SQLAlchemy` `Bootstrap`
@@ -138,7 +138,7 @@ class ViniciusAnsbach:
 🔹 Aplicação leve e eficiente  
 🔹 Baixo consumo de recursos do sistema  
 
-[![Repo](https://img.shields.io/badge/Ver_Repositório-000?style=for-the-badge&logo=github)]([https://github.com/Ansbach-0](https://github.com/Ansbach-0/WindowsForms-TemperatureCheck-GUI))
+[![Repo](https://img.shields.io/badge/Ver_Repositório-000?style=for-the-badge&logo=github)](https://github.com/Ansbach-0/WindowsForms-TemperatureCheck-GUI)
 
 ---
 
