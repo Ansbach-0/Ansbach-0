@@ -170,7 +170,7 @@ class ViniciusAnsbach:
 
 ## 🎯 Objetivos 2025
 
-- [ ] 🚀 Conseguir estágio em desenvolvimento de software
+- [✔️] 🚀 Conseguir estágio em desenvolvimento de software
 - [ ] 📚 Aprofundar conhecimentos em Cloud Computing
 - [ ] 🔧 Contribuir para projetos open source
 - [ ] 📊 Expandir conhecimentos em Data Science
