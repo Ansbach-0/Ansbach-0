@@ -188,7 +188,7 @@ class ViniciusAnsbach:
 
 <div align="center">
 
-💬 **Analista de Desenvolvimento @ Vox TI • Full-Stack • Uso de IA Agêntica • Acessoria Especialista em IA Local**
+💬 **Analista de Desenvolvimento Jr. @ Vox TI • Full-Stack • Uso de IA Agêntica • Acessoria Especialista em IA Local**
 
 <br>
 
