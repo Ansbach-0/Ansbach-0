@@ -1,7 +1,7 @@
 # Olá! Eu sou **Vinícius Ansbach Costa** 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Analista+de+Desenvolvimento+%7C+Vox+TI;Full-Stack+Developer+%7C+Python+%2B+C%23+%2F+.NET;Orquestração+de+Agentes+de+IA+(HITL);TCC%3A+OpenFloyd+%E2%80%94+Acessibilidade+por+Voz+%2B+IA+Local" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Analista+de+Desenvolvimento+Jr.+%7C+Vox+TI;Full-Stack+Developer+%7C+Python+%2B+C%23+%2F+.NET;Orquestração+de+Agentes+de+IA+(HITL);TCC%3A+OpenFloyd+%E2%80%94+Acessibilidade+por+Voz+%2B+IA+Local" alt="Typing SVG" />
 </div>
 
 <div align="center">
